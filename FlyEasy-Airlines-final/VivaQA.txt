@@ -1,0 +1,14 @@
+Q1: What is the purpose of this project?
+A: To provide a simple airline reservation system using Java and MySQL.
+
+Q2: Which design pattern is used?
+A: DAO pattern to separate database operations from business logic.
+
+Q3: How is data consistency maintained?
+A: By using database transactions with commit and rollback.
+
+Q4: What is the main innovation of the project?
+A: Transaction-safe booking and modular architecture.
+
+Q5: Why JDBC?
+A: JDBC allows Java programs to securely connect and interact with databases.
